@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **AI gen sign language**
 
-- 🌱 I’m currently learning **AI Gen, ML, DL, Data engineering**
+- 🌱 I’m currently learning **Gen AI, ML, DL, Data engineering**
 
 - 💬 Ask me about **Python, Big Data, NLP, ML, DL**
 
